@@ -42,6 +42,11 @@ header input {
   color: white;
 }
 
+h2,
+h4 {
+  color: rgb(4, 71, 4);
+}
+
 main {
   display: flex;
   align-items: center;
@@ -129,6 +134,10 @@ footer a {
 
   main a {
     display: block;
+  }
+
+  .contacts h4 {
+    margin-bottom: 0.5rem;
   }
 
   .part2 {
